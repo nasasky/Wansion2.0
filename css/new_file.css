@@ -1,0 +1,635 @@
+.second {
+	float: left;
+	width: 100%;
+	margin-top: 50px;
+}
+
+.properties-list h2 {
+	color: black;
+}
+
+.properties-list p {
+	text-align: center;
+}
+
+.second-first {
+	float: left;
+	width: 100%;
+	height: 100px;
+	background: black;
+}
+
+.wthree-img {
+	float: left;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+}
+
+.server-about {
+	margin-top: 50px;
+	float: left;
+	width: 100%;
+	border-top: 2px solid #818181;
+}
+
+.server-xian {
+	margin-top: 100px;
+	float: left;
+	height: 3px;
+	width: 100%;
+	background: #7B7B7B;
+}
+
+.erwei {
+	float: left;
+	width: 48%;
+}
+
+.erweix {
+	float: left;
+	width: 48%;
+	margin-left: 4%;
+}
+
+.erwei img {
+	float: left;
+	width: 100%;
+	height: 100%;
+}
+
+.erweix img {
+	float: left;
+	width: 100%;
+	height: 100%;
+}
+
+#allmap {
+	width: 100%;
+	height: 380px;
+	overflow: hidden;
+	margin: 0;
+	font-family: "微软雅黑";
+}
+
+.new-show {
+	margin-top: 30px;
+}
+
+.new-first {
+	float: left;
+	width: 100%;
+	margin-bottom: 50px;
+}
+
+.new-right {
+	float: right;
+	border-bottom: 1.5px solid #808080;
+	width: 100%;
+}
+
+.new-right ul {
+	float: right;
+	width: 100%;
+}
+
+.new-right li {
+	float: right;
+	list-style: none;
+}
+
+.new-title {
+	width: 100%;
+	margin-top: 20px;
+	float: left;
+	text-align: center;
+}
+
+.new-span {
+	width: 100%;
+	float: left;
+	text-align: center;
+	margin-top: 15px;
+	border-bottom: 1px dashed #333;
+}
+
+.new-artice {
+	float: left;
+	width: 100%;
+	height: auto;
+	margin-top: 15px;
+	text-align: left;
+}
+
+.new-artice p {
+	font-size: 16px;
+}
+
+.new-artice-first {
+	margin-top: 10px;
+	width: 100%;
+	text-align: left;
+}
+
+.new-artice-first p {
+	line-height: 26px;
+}
+
+.new-fen {
+	float: right;
+	margin-top: 2em;
+	width: 100%;
+	text-align: right;
+}
+
+.show-title {
+	margin-top: 1em;
+	float: left;
+	width: 100%;
+}
+
+.show-title a {
+	color: black;
+	text-decoration: none;
+}
+
+.show-title a:hover {
+	color: #4586A4;
+}
+
+.show-title p {
+	font-size: 16px;
+}
+
+.w3ls-p-text {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+}
+
+.sed {
+	text-align: left;
+	width: 100%;
+}
+
+.single-img {
+	float: left;
+	width: 100%;
+}
+
+.server-about-h4 {
+	float: left;
+	width: 100%;
+	margin-top: 50px;
+}
+
+.server-about-h4 h4 {
+	font-size: 26px;
+	font-weight: 100;
+	color: #818181;
+	letter-spacing: 10px;
+}
+
+.server-about-h4 p {
+	margin-top: 5px;
+	font-size: 18px;
+	color: #818181;
+}
+
+.server-about-h4 a {
+	color: #1185A6;
+}
+
+.server-about-p {
+	float: left;
+	margin-top: 30px;
+	width: 80%;
+}
+
+.server-about-p p {
+	line-height: 24px;
+	font-size: 16px;
+	letter-spacing: 4px;
+}
+
+.server-about-button-ti {
+	float: left;
+	margin-top: 40px;
+	width: 30%;
+	height: 50px;
+	text-align: center;
+	background: #1185A6;
+}
+
+.server-about-button-ti p {
+	color: white;
+	font-size: 18px;
+	line-height: 50px;
+	text-decoration: none;
+}
+
+.server-about-img {
+	float: left;
+	width: 100%;
+	margin-top: 50px;
+}
+
+.server-about-img img {
+	float: left;
+	width: 100%;
+	height: 100%;
+}
+
+.index-xian {
+	float: left;
+	width: 100%;
+	height: 100px;
+	margin-bottom: 50px;
+	background: url(../images/bax.jpg);
+}
+
+.index-xian-right {
+	float: left;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+}
+
+.index-xian-p {
+	line-height: 100px;
+	color: white;
+	letter-spacing: 5px;
+}
+
+@media only screen and (max-width:1920px) {
+	.index-xian-right p {
+		font-size: 18px;
+	}
+}
+
+@media only screen and (max-width:1600px) {
+	.index-xian-right p {
+		font-size: 18px;
+	}
+}
+
+@media only screen and (max-width:1400px) {
+	.index-xian-right p {
+		font-size: 18px;
+	}
+}
+
+@media only screen and (max-width:1200px) {
+	.index-xian-right p {
+		font-size: 18px;
+	}
+}
+
+@media only screen and (max-width:960px) {
+	.index-xian-right p {
+		font-size: 16px;
+	}
+}
+
+@media only screen and (max-width:768px) {
+	.index-xian-right p {
+		font-size: 16px;
+	}
+}
+
+@media only screen and (max-width:640px) {
+	.index-xian-right p {
+		font-size: 15px;
+	}
+}
+
+@media only screen and (max-width:480px) {
+	.index-xian-right p {
+		font-size: 9px;
+	}
+}
+
+@media only screen and (max-width:360px) {
+	.index-xian-right p {
+		font-size: 13px;
+	}
+}
+
+@media only screen and (max-width:320px) {
+	.index-xian-right p {
+		font-size: 10px;
+	}
+}
+
+.index-img {
+	margin-top: 20px;
+	float: left;
+	width: 100%;
+	text-align: center;
+}
+
+.index-artice {
+	float: left;
+	width: 100%;
+	margin-top: 20px;
+	text-align: center;
+}
+
+.index-three {
+	float: left;
+	width: 100%;
+	margin-top: 20px;
+}
+
+.index-three ul {
+	float: left;
+	width: 100%;
+}
+
+.index-three li {
+	float: left;
+	width: 100%;
+	list-style: none;
+	margin-top: 30px;
+}
+
+.index-three2 {
+	float: left;
+	width: 100%;
+}
+
+.index-three2 ul {
+	float: left;
+	width: 100%;
+}
+
+.index-three2 li {
+	margin-top: 30px;
+	float: left;
+	width: 100%;
+	list-style: none;
+}
+
+@media only screen and (max-width:1920px) {
+	.index-three li {
+		height: 300px;
+	}
+	.index-three2 li {
+		height: 300px;
+	}
+}
+
+@media only screen and (max-width:1600px) {
+	.index-three li {
+		height: 280px;
+	}
+	.index-three2 li {
+		height: 280px;
+	}
+}
+
+.index-tu-button {
+	margin-top: 30px;
+	position: relative;
+	width: 100%;
+	height: 45px;
+}
+
+.tu-button {
+	position: absolute;
+	margin: auto;
+	left: 0;
+	right: 0;
+	width: 120px;
+	height: 45px;
+	border: 1px solid #1185A6;
+	text-align: center;
+	line-height: 45px;
+}
+
+.tu-button p {
+	color: #1185A6;
+	font-size: 16px;
+	text-decoration: none;
+}
+
+@media only screen and (max-width:1400px) {
+	.index-three li {
+		height: 220px;
+	}
+	.index-three2 li {
+		height: 220px;
+	}
+}
+
+@media only screen and (max-width:1200px) {
+	.index-three li {
+		height: 210px;
+	}
+	.index-three2 li {
+		height: 210px;
+	}
+}
+
+@media only screen and (max-width:960px) {
+	.index-three li {
+		height: 230px;
+	}
+	.index-three2 li {
+		height: 230px;
+	}
+}
+
+@media only screen and (max-width:768px) {
+	.index-three li {
+		height: 200px;
+	}
+	.index-three2 li {
+		height: 200px;
+	}
+}
+
+@media only screen and (max-width:640px) {
+	.index-three li {
+		height: 250px;
+	}
+	.index-three2 li {
+		height: 250px;
+	}
+}
+
+@media only screen and (max-width:480px) {
+	.index-three li {
+		height: 250px;
+	}
+	.index-three2 li {
+		height: 250px;
+	}
+}
+
+@media only screen and (max-width:360px) {
+	.index-three li {
+		height: 200px;
+	}
+	.index-three2 li {
+		height: 200px;
+	}
+}
+
+@media only screen and (max-width:320px) {
+	.index-three li {
+		height: 180px;
+	}
+	.index-three2 li {
+		height: 180px;
+	}
+}
+
+.news {
+	float: left;
+	position: relative;
+	width: 100%;
+	height: 310px;
+	background: url(../images/abo-k3.jpg);
+}
+
+.news-f {
+	width: 100%;
+	bottom: 0px;
+	height: 100px;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	background: rgba(0, 0, 0, .35);
+}
+
+.news-ul li {
+	float: left;
+	list-style: none;
+	color: white;
+	width: 95%;
+	margin-left: 5%;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 3;
+	overflow: hidden;
+}
+
+.news-ul {
+	float: left;
+	width: 100%;
+}
+
+.news-li {
+	font-size: 20px;
+	margin-bottom: 15px;
+}
+
+.news-g {
+	float: left;
+	width: 100%;
+	height: 100%;
+}
+
+.news-g ul {
+	float: left;
+	width: 100%;
+}
+
+.news-g li {
+	float: left;
+	width: 49%;
+	list-style: none;
+	height: 150px;
+	background: white;
+	margin-bottom: 10px;
+}
+
+.news-riqi {
+	float: left;
+	width: 30%;
+	height: 100%;
+	text-align: center;
+}
+
+.riqi {
+	font-size: 40px;
+	margin-top: 30%;
+	font-weight: 600;
+	color: #999999;
+}
+
+.shi {
+	margin-top: 5%;
+	font-weight: 600;
+	font-size: 20px;
+	color: #999999;
+}
+
+.news-neirong {
+	float: left;
+	width: 70%;
+	height: 80%;
+	margin-top: 5%;
+	border-left: 1px solid #EBEBEB;
+}
+
+.news-h4 {
+	float: left;
+	width: 97%;
+	font-size: 18px;
+	margin-left: 2.5%;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 1;
+	overflow: hidden;
+}
+
+.news-p {
+	float: left;
+	width: 97%;
+	margin-top: 5%;
+	margin-left: 2.5%;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 3;
+	overflow: hidden;
+}
+
+.xuan {
+	float: left;
+	width: 100%;
+	margin-bottom: 50px;
+	margin-top: 30px;
+}
+
+.xuan img {
+	float: left;
+	width: 100%;
+	height: 100%;
+}
+
+.xuan ul {
+	float: left;
+	width: 100%;
+}
+
+.xuan li {
+	float: left;
+	width: 100%;
+	list-style: none;
+	color: #7B7B7B;
+	font-size: 20px;
+	font-weight: 550;
+}
+
+.erwei-x {
+	float: left;
+	margin-left: 10%;
+	margin-top: 50px;
+	width: 100px;
+	height: 100px;
+	
+}

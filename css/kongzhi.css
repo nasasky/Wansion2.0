@@ -1,0 +1,58 @@
+.index-xian{
+	 height: 550px !important;
+}
+
+@media only screen and (max-width:414px) {
+   .text-center {
+    text-align: center;
+    margin-top: 45px;
+}
+   .xc-h5{
+   	display: none;
+   }
+   .row{
+   	width: 90% !important;
+    margin-left: 5% !important;
+}
+.col-md-4{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.nei-ul {
+    display: none;
+}
+
+.index-tu-button{
+	display: none;
+}
+.index-xian {
+	height: 250px !important;
+}
+h3{
+	font-size:20px;
+}
+}
+@media only screen and (max-width:480px) {
+.floating_ck{
+	display: none;
+}
+.nei-ul{
+	display: none;
+}
+}
+@media only screen and (max-width:414px) {
+.floating_ck{
+	display: none;
+}
+.nei-ul{
+	display: none;
+}
+}
+@media only screen and (max-width:375px) {
+.floating_ck{
+	display: none;
+}
+.nei-ul{
+	display: none;
+}
+}
