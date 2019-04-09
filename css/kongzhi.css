@@ -28,7 +28,10 @@
 .index-tu-button{
 	display: none;
 }
-.index-xian {
+	.index-xian {
+		height: 250px !important;
+	}
+.index-xian1 {
 	height: 630px !important;
 }
 h3{
@@ -62,6 +65,9 @@ h3{
 		font-size: 35px !important;
 	}
 	.index-xian {
+		height: 250px !important;
+	}
+	.index-xian1 {
 		height: 630px !important;
 	}
 	#col_cont p {
