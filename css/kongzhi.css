@@ -1,7 +1,10 @@
 .index-xian{
 	 height: 550px !important;
 }
-
+.news-g li{
+	margin-left: 2%;
+	width: 48% !important;
+}
 @media only screen and (max-width:414px) {
    .text-center {
     text-align: center;
@@ -26,11 +29,14 @@
 	display: none;
 }
 .index-xian {
-	height: 250px !important;
+	height: 630px !important;
 }
 h3{
 	font-size:20px;
 }
+	#col_cont p {
+		font-size: 15px;
+	}
 }
 @media only screen and (max-width:480px) {
 .floating_ck{
@@ -39,6 +45,28 @@ h3{
 .nei-ul{
 	display: none;
 }
+	.news-g ul{
+		margin-top: 10px;
+	}
+	.news-g li{
+		margin-left: 2%;
+		height: 110px !important;
+	}
+	.news{
+		height: 220px !important;
+	}
+	.shi{
+		font-size: 12px !important;
+	}
+	.riqi{
+		font-size: 35px !important;
+	}
+	.index-xian {
+		height: 630px !important;
+	}
+	#col_cont p {
+		font-size: 15px;
+	}
 }
 @media only screen and (max-width:414px) {
 .floating_ck{
