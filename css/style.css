@@ -556,7 +556,7 @@ ul#flexiselDemo3.nbs-flexisel-nav-left, ul#flexiselDemo3.nbs-flexisel-nav-right 
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
-    height: 370px;
+
     text-align: center;
     padding-top: 70px;
 }
@@ -2123,7 +2123,7 @@ figure {
 		margin: 2em 0;
 	}
 	.stats {
-		height: 340px;
+
 		padding-top: 55px;
 	}
 	.subscribe p {
@@ -2256,7 +2256,7 @@ figure {
 		text-align:center;
 	}
 	.stats {
-		height: 380px;
+
 	}
 	.footer-top-mid h3, .adress-agile h3 {
 		margin: 35px 0 10px;
@@ -2398,7 +2398,7 @@ figure {
 		font-size: 35px;
 	}
 	.stats {
-		height: 365px;
+
 	}
 	.clients {
 		margin-top: 40px;
@@ -2616,7 +2616,7 @@ figure {
 		margin-top: 40px;
 	}
 	.stats {
-		height: 330px;
+
 		padding-top: 50px;
 	}
 	.location {
@@ -2761,7 +2761,7 @@ figure {
 		font-size: 26px;
 	}
 	.stats {
-		height: 300px;
+
 		padding-top: 45px;
 	}
 	.modal-dialog {
@@ -2931,7 +2931,7 @@ figure {
 		letter-spacing: 0.5px;
 	}
 	.stats {
-		height: 270px;
+
 		padding-top: 40px;
 	}
 	.w3-agent {
@@ -3068,7 +3068,7 @@ figure {
 		margin-bottom: 25px;
 	}
 	.stats {
-		height: 590px;
+
 		padding-top: 35px;
 	}
 	.stats-grid i {
